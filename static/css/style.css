@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid;
+}
+
+th,td {
+    height: 50px;
+    text-align: center;
+    color: black;
+}
+
+th {
+    background-color: dodgerblue;
+}
+
+td {
+    background-color: lightcyan;
+}
